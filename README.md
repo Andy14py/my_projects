@@ -7,7 +7,7 @@ Hi There! Here are my latest Dashboards on Power Bi:
 [[Link to Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNDRmYTczMjktZGZhYi00NGMwLTk2MTAtYzRiYzJhZTE0MTA1IiwidCI6IjEyZjRmNjZkLTNiYWUtNDgxYi1iNTJlLTc1OWZhNGRlNWRmMiJ9)
 
 ## Project Win
-(Add details here)
+[[Link to Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNjM4OWUzMmQtMzQ2NS00N2I4LTg3ZGQtOGZhNDc4Y2JmZTczIiwidCI6IjEyZjRmNjZkLTNiYWUtNDgxYi1iNTJlLTc1OWZhNGRlNWRmMiJ9)https://app.powerbi.com/view?r=eyJrIjoiNjM4OWUzMmQtMzQ2NS00N2I4LTg3ZGQtOGZhNDc4Y2JmZTczIiwidCI6IjEyZjRmNjZkLTNiYWUtNDgxYi1iNTJlLTc1OWZhNGRlNWRmMiJ9
 
 ## Project BrightCell
-(Add details here)
+[Link to Dashboard]
