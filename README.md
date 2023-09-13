@@ -1,4 +1,4 @@
-# My_projects
+# My Projects
 These are projects I'm currently working on
 Hi There! 
 Here are my lastest Dashboards on Power Bi 
