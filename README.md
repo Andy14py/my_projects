@@ -13,3 +13,6 @@ Hi There! Here are my latest Dashboards on Power Bi:
 ## PROJECT WIN
 [[Link to Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiNWY3ODc0MWMtNzQ3Zi00YWEyLWFhMDEtMjI5NzZhZDA4ZDRiIiwidCI6IjEyZjRmNjZkLTNiYWUtNDgxYi1iNTJlLTc1OWZhNGRlNWRmMiJ9)
 
+## PROJECT TIANSHI
+[[Link to Dashboard]](https://app.powerbi.com/view?r=eyJrIjoiZmE0ZDUwMjktMDFlYi00MDMxLWFhMDUtZjA4OThiMmE1N2RjIiwidCI6IjEyZjRmNjZkLTNiYWUtNDgxYi1iNTJlLTc1OWZhNGRlNWRmMiJ9)
+
